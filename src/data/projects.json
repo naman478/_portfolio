@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Aura Wheels",
+    "imageSrc": "projects/bike.jpg",
+    "description": "It is a Bike Rental System in which user can rent and list the bike.Payment gateway also included using Stripe.",
+    "skills": ["Express", "Node","MongoDB","React"],
+    "demo": "https://github.com/naman478/bike-rental",
+    "source": "https://github.com/naman478/bike-rental"
+},
+{
+  "title": "RedMI clone",
+  "imageSrc": "projects/mi.jpg",
+  "description": "Clone of official MI website, shows various products such as Mobile phones, Laptops and other electrical appliances.",
+  "skills": ["React", "Javascript", "CSS","HTML"],
+  "demo": "https://serene-cendol-5d5d4d.netlify.app/",
+  "source": "https://github.com/naman478/mi-clone"
+},
+
+  {
+    "title": "Crypto Currency Tracker",
+    "imageSrc": "projects/project3.png",
+    "description": "This site fetches and displays real-time cryptocurrency data like prices, trading volume etc. using Crypto API.",
+    "skills": ["React", "Javascript", "CSS","HTML"],
+    "demo": "https://65d84279fe2eb17bda79baf7--sweet-profiterole-a6a3ad.netlify.app/",
+    "source": "https://github.com/naman478/crypto-app"
+  },
+  {
+    "title": "MovieeZ",
+    "imageSrc": "projects/project2.png",
+    "description": "It is a Movie Review Site which fetches and displays various upcoming, latest and trending movies using TMBD API.",
+    "skills": ["React", "Javascript", "CSS", "HTML"],
+    "demo": "https://singular-rolypoly-4f9611.netlify.app/",
+    "source": "https://github.com/naman478/Moviesite"
+  }
+
+]
